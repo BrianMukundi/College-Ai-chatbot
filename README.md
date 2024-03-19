@@ -1,4 +1,4 @@
-1.	Clone the Drekschools website from GitHub.
+1.	Clone the repo.
 2.	Run the website on your preferred environment e.g., xampp local host
 3.	Navigate on the bottom right of the landing page where you find a message bubble.
 4.	Click the bubble and this should open the platform to chat with Rafiki.
